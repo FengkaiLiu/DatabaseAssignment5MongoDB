@@ -1,0 +1,25 @@
+{
+  "name": "homeworkmongo",
+  "version": "1.0.0",
+  "description": "mongo homework for different queries",
+  "main": "mongohw.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FengkaiLiu/homeworkMongo.git"
+  },
+  "keywords": [
+    "database"
+  ],
+  "author": "Fengkai Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FengkaiLiu/homeworkMongo/issues"
+  },
+  "homepage": "https://github.com/FengkaiLiu/homeworkMongo#readme",
+  "dependencies": {
+    "mongodb": "^6.5.0"
+  }
+}
